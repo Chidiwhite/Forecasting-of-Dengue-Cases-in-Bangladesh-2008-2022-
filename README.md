@@ -1,5 +1,5 @@
 # Forecasting-of-Dengue-Cases-in-Bangladesh-2008-2022
-\This time-series forecasting project analyzed over a decade of Dengue-Climate data from Bangladesh (2008–2022) to build a predictive model for disease outbreaks.This project wasn't just about fitting a line; it was a lesson in statistical rigor, feature engineering, and the importance of model parsimony.Here is a breakdown of the technical journey
+This time-series forecasting project analyzed over a decade of Dengue-Climate data from Bangladesh (2008–2022) to build a predictive model for disease outbreaks.This project wasn't just about fitting a line; it was a lesson in statistical rigor, feature engineering, and the importance of model parsimony. Here is a breakdown of the project:
 
 Data Loading & Transformation: Started by merging discrete year/month columns to create a continuous datetime index, transforming raw records into a structured time-series dataset ready for analysis.
 
